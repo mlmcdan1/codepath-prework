@@ -19,14 +19,14 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 - Instagram
- -Saving posts
- - Uploading Images and Videos
+ -- Saving posts
+ -- Uploading Images and Videos
 - YouTube
- - Uploading Videos
- - Livestreaming
+ -- Uploading Videos
+ -- Livestreaming
 - Google Chrome
- - Connect to the web
- - Request Desktop Site
+ -- Connect to the web
+ -- Request Desktop Site
 
 - I'm working on an app allowing users to search for gamers in a requested area. I plan to use Firebase for authentication and storage. I also plan to use googlemapapi to search and locate users. Users can connect if they share common interests in video gaming. 
 
