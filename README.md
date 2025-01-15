@@ -10,20 +10,19 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+![Codepath Prework Walkthrough Video](/codepathPreWork.gif)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+None
 
 ## License
 
