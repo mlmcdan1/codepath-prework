@@ -18,6 +18,15 @@ The following **required** functionality is completed:
 
 
 ## App Brainstorming (Step 4)
+- Instagram
+-- Saving posts
+-- Uploading Images and Videos
+- YouTube
+-- Uploading Videos
+-- Livestreaming
+- Google Chrome
+-- Connect to the web
+-- Request Desktop Site
 
 ## Notes
 
